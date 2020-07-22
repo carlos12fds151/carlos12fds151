@@ -16,7 +16,9 @@ Full-Stack | Web | Angular - Nodejs | Movil | Ionic
 - Soy un desarrollador de software con mas de 2 años de experiencia.
 
 - Domino las siguientes tecnologias :
-  HTML5,CSS3,SASS,JAVASCRIPT,PHP,TYPESCRIPT,ANGULAR,NODEJS,IONIC,SQL-PL/SQL.
+  html5,Css3,Sass,JavaScript,
+  Php,TypeScript,Angular,Nodejs,
+  Ionic,SQL-PL/SQL.
 
 - Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
 
