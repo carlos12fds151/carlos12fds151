@@ -13,12 +13,12 @@ Full-Stack | Web | Angular - Nodejs
 
 
 ### About me
-
+<em>
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Technologies  :** JavaScript, TypeScript, Angular, Nodejs, Html5, Css3, Sass, SQL-PL/SQL...
 -  **Hobbies :** Books, Movies & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
-
+</em>
 ## Social media
 
 <a href="https://twitter.com/Carlossanzxo">
