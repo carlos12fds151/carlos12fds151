@@ -18,7 +18,7 @@ Full-Stack | Web | Angular - Nodejs
   Php, TypeScript, Angular, Nodejs, 
   Ionic, SQL-PL/SQL ...
   
-  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
 
