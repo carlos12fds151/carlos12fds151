@@ -13,7 +13,8 @@ Full-Stack | Web | Angular - Nodejs
 
 - Soy un desarrollador de software con mas de 2 años de experiencia.
 
-- Domino las siguientes tecnologias :
+- Tengo conocimientos de las siguientes tecnologias :
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   html5, Css3, Sass, JavaScript, 
   Php, TypeScript, Angular, Nodejs, 
   Ionic, SQL-PL/SQL ...
