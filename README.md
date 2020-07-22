@@ -9,6 +9,8 @@ Full-Stack | Web | Angular - Nodejs
 [![Github](https://img.shields.io/github/watchers/carlos12fds151/carlos12fds151?style=social)](https://github.com/carlos12fds151/carlos12fds151)
 
 
+ ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ## Acerca de mi
 
 - Soy un desarrollador de software con mas de 2 años de experiencia.
@@ -17,8 +19,6 @@ Full-Stack | Web | Angular - Nodejs
   html5, Css3, Sass, JavaScript, 
   Php, TypeScript, Angular, Nodejs, 
   Ionic, SQL-PL/SQL ...
-  
-  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
 
