@@ -16,9 +16,9 @@ Full-Stack | Web | Angular - Nodejs | Movil | Ionic
 - Soy un desarrollador de software con mas de 2 años de experiencia.
 
 - Domino las siguientes tecnologias :
-  html5,Css3,Sass,JavaScript,
-  Php,TypeScript,Angular,Nodejs,
-  Ionic,SQL-PL/SQL.
+  html5, Css3, Sass, JavaScript, 
+  Php, TypeScript, Angular, Nodejs, 
+  Ionic, SQL-PL/SQL ...
 
 - Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
 
@@ -27,36 +27,30 @@ Full-Stack | Web | Angular - Nodejs | Movil | Ionic
 
 ## Mis redes sociales
 
-<a href="https://twitter.com/damiarc_dev">
+<a href="https://twitter.com/Carlossanzxo">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/DamianRincon/">
+<a href="https://www.linkedin.com/in/carlosfrederickdiazsanchez/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/DamianRincon/">
+<a href="https://github.com/carlos12fds151/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
-<a href="https://t.me/damianrc">
+<a href="https://t.me/carlosdiazxo">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="https://codepen.io/DamianRincon">
-  <img align="left" alt="CodePen" width="22px" src="https://img.icons8.com/material/24/000000/codepen.png"/>
-</a>
-<a href="https://www.instagram.com/demianrc/">
+<a href="https://www.instagram.com/carlosdiaz.js/">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
 </a>
-<a href="https://play.google.com/store/apps/dev?id=5535284175982649291">
-  <img align="left" alt="GooglePlay" width="22px" src="https://img.icons8.com/color/48/000000/google-play.png"/>
-</a>
-<a href="mailto:damianrc.dev@gmail.com">
+<a href="mailto:carlosdiazdevbusiness@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-<a href="https://www.facebook.com/damianrincondrc">
+<a href="https://www.facebook.com/profile.php?id=100018412269433">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
-<a href="https://stackoverflow.com/users/11723572/demianrc">
+<a href="https://stackoverflow.com/users/13973167/carlos-frederick-diaz-sanchez">
   <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
-<a href="https://www.youtube.com/channel/UCiv3Sc-qSq2HThd5pLuTo2w?view_as=subscriber">
+<a href="https://www.youtube.com/channel/UC654TtJh_VjJ3g7nxn66Rbw?view_as=subscriber">
   <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 </a>
