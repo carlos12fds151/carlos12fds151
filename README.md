@@ -1,5 +1,5 @@
 
-# Hola, soy desarrollador.
+# Hi, I'm a developer.
 
 Full-Stack | Web | Angular - Nodejs
 
@@ -10,24 +10,16 @@ Full-Stack | Web | Angular - Nodejs
 
 
  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
- 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-## Acerca de mi
-
-- Soy un desarrollador de software con mas de 2 años de experiencia.
-
-- Tengo conocimientos de las siguientes tecnologias :
-  html5, Css3, Sass, JavaScript, 
-  Php, TypeScript, Angular, Nodejs, 
-  Ionic, SQL-PL/SQL ...
-
-- Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
-
-- Tengo cierta inclinación por el diseño web, para trabajar utilizo AdobeXD y Figma.
 
 
-## Mis redes sociales
+### About me
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Technologies  :** JavaScript, TypeScript, Angular, Nodejs, Html5, Css3, Sass, SQL-PL/SQL...
+-  **Hobbies :** Books, Movies & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+
+## Social media
 
 <a href="https://twitter.com/Carlossanzxo">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
