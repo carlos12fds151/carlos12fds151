@@ -1,9 +1,7 @@
-<img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
-
 
 # Hola, soy desarrollador.
 
-Full-Stack | Web | Angular - Nodejs | Movil | Ionic
+Full-Stack | Web | Angular - Nodejs
 
 [![Github](https://img.shields.io/github/followers/carlos12fds151?style=social)](https://github.com/carlos12fds151)
 [![Github](https://img.shields.io/github/last-commit/carlos12fds151/carlos12fds151)](https://github.com/carlos12fds151/carlos12fds151)
