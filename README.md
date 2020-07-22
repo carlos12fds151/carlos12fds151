@@ -7,10 +7,11 @@ Full-Stack | Web | Angular - Nodejs
 [![Github](https://img.shields.io/github/last-commit/carlos12fds151/carlos12fds151)](https://github.com/carlos12fds151/carlos12fds151)
 [![Github](https://img.shields.io/github/stars/carlos12fds151/carlos12fds151?style=social)](https://github.com/carlos12fds151/carlos12fds151)
 [![Github](https://img.shields.io/github/watchers/carlos12fds151/carlos12fds151?style=social)](https://github.com/carlos12fds151/carlos12fds151)
-![](https://visitor-badge.glitch.me/badge?page_id=carlos12fds151.carlos12fds151)
 
 
  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+ 
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## Acerca de mi
 
