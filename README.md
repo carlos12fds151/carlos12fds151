@@ -3,7 +3,7 @@
 
 # Hola, soy desarrollador.
 
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack | Web | Angular - Nodejs | Movil | Ionic
 
 [![Github](https://img.shields.io/github/followers/carlos12fds151?style=social)](https://github.com/carlos12fds151)
 [![Github](https://img.shields.io/github/last-commit/carlos12fds151/carlos12fds151)](https://github.com/carlos12fds151/carlos12fds151)
@@ -13,13 +13,14 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 ## Acerca de mi
 
-- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
+- Soy un desarrollador de software con mas de 2 años de experiencia.
 
-- A Damián le encanta programar, leer, tomar café y jugar videojuegos.
+- Domino las siguientes tecnologias :
+  HTML5,CSS3,SASS,JAVASCRIPT,PHP,TYPESCRIPT,ANGULAR,NODEJS,IONIC,SQL-PL/SQL.
 
-- No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico.
+- Mi pasatiempo es pulir mis habilidades en las tecnologias antes mencionadas, para mi es como un deporte.
 
-- Habla español y memes.
+- Tengo cierta inclinación por el diseño web, para trabajar utilizo AdobeXD y Figma.
 
 
 ## Mis redes sociales
