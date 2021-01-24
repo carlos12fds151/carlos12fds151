@@ -1,7 +1,7 @@
 
 # Hi, I'm a developer.
 
-Full-Stack | Web | Angular - Nodejs
+Full-Stack | Web - Mobil - Desktop | Angular - Nodejs
 
 [![Github](https://img.shields.io/github/followers/carlos12fds151?style=social)](https://github.com/carlos12fds151)
 [![Github](https://img.shields.io/github/last-commit/carlos12fds151/carlos12fds151)](https://github.com/carlos12fds151/carlos12fds151)
