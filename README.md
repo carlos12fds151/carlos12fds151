@@ -24,9 +24,6 @@ Full-Stack | Web | Angular - Nodejs
 <a href="https://twitter.com/Carlossanzxo">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="https://www.linkedin.com/in/carlosfrederickdiazsanchez/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/carlos12fds151/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>
@@ -41,10 +38,4 @@ Full-Stack | Web | Angular - Nodejs
 </a>
 <a href="https://www.facebook.com/profile.php?id=100018412269433">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
-</a>
-<a href="https://stackoverflow.com/users/13973167/carlos-frederick-diaz-sanchez">
-  <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-</a>
-<a href="https://www.youtube.com/channel/UC654TtJh_VjJ3g7nxn66Rbw?view_as=subscriber">
-  <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 </a>
