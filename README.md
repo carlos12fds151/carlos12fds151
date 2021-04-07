@@ -1,7 +1,10 @@
 
-# Hi, I'm a developer.
+# Hi, I'm a full-stack developer.
 
-Full-Stack | Web - Mobil - Desktop | Angular - Nodejs
+### Stack
+
+-  **Front-end:** JavaScript - TypeScript | Angular | React 🔥
+-  **Back-end:** Nodejs - Nestjs | PHP 🔥
 
 [![Github](https://img.shields.io/github/followers/carlos12fds151?style=social)](https://github.com/carlos12fds151)
 [![Github](https://img.shields.io/github/last-commit/carlos12fds151/carlos12fds151)](https://github.com/carlos12fds151/carlos12fds151)
@@ -14,8 +17,6 @@ Full-Stack | Web - Mobil - Desktop | Angular - Nodejs
 
 ### About me
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Technologies  :** JavaScript, TypeScript, Angular, Nodejs, Html5, Css3, Sass, SQL-PL/SQL...
 -  **Hobbies :** Books, Movies & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
