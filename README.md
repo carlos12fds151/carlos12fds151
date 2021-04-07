@@ -12,7 +12,7 @@
 [![Github](https://img.shields.io/github/watchers/carlos12fds151/carlos12fds151?style=social)](https://github.com/carlos12fds151/carlos12fds151)
 
 
- ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=carlos12fds151&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos12fds151&theme=buefy&layout=compact)
 
 
 ### About me
